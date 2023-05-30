@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #121212;
+}
+
+h1 {
+    color: #1db954;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.welcome {
+    color: #f3dcd4;
+   
+}
+
+.login-contain {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.button-log {
+    display: flex;
+    align-self: flex-end;
+   padding-left: 10px;
+}
+
+#do-it {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    background: #f3dcd4;
+}
+
+#do-it:hover {
+    background: whitesmoke;
+}
+
+
+
+/* Cover section */
+.everything {
+    
+    display: flex;
+    flex-direction: row;
+}
+
+
+.cover {
+    border: 1px solid white;
+    width: 115%;
+    padding: 10px;
+}
+
+.new-area {
+    border: 1px solid white;
+    color: white;
+    
+}
+
+.singles-btn {
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: .5rem;
+    width: 100%;
+    background: #1db954;
+}
+
+.singles {
+    padding: 1rem;
+}
+
+.singles-btn:hover {
+    background: #f3dcd4;
+}
+
+.artists-btn {
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: .5rem;
+    width: 100%;
+    background: #1db954;
+}
+
+.artists {
+    padding: .5rem;
+    
+}
+
+.artists-btn:hover {
+    background: #f3dcd4;
+}
+
+/* Result Section */
+
+
+.results {
+    color: white;
+    padding: 2rem;
+}
+
+img {
+    width: 500px;
+    padding-bottom: 3rem;
+}
