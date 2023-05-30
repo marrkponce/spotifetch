@@ -1,5 +1,7 @@
 # spotifetch
 
+https://spotifetch.netlify.app/
+
 Spotifetch is for fetching user's spotify data with a simple search request
 
 Utilizing secure user authentication, Spotifetch offers a personalized and immersive experience.
