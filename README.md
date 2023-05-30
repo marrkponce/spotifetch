@@ -1,6 +1,6 @@
 # spotifetch
 
-https://spotifetch.netlify.app/
+https://github.com/marrkponce/spotifetch/issues/2
 
 Spotifetch is for fetching user's spotify data with a simple search request
 
